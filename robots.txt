@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: 
+
+Sitemap: http://duleorlovic.github.io/octopress-site/sitemap.xml 
